@@ -1,2 +1,2 @@
 # DeepLearning
-一些笔记
+关于dl的一些笔记
